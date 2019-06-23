@@ -1,9 +1,10 @@
-so you think you can;;#36;;bold
-Stone me and spit me Eyes;;red;;bold,blink
-mode keep awakes:\w{3,5};;orange;;italic
-Average CPU load = \d+%;;#119;;italic,strikethrough,blink
-Average CPU load  = \d++%;;#199;;
-RLen:0x01,TLen:0x01;;cyan;;italic;;nt
-Application Software Info;;cyan;;italic;;nt
-Started;;#176;;;;nt
-Starting;;green;;italic;;nt
+Is this the.+\?;;#176;;
+Is this just.+\?;;#64;;;;nt
+Caught in a landslide, no escape from reality;;green;;italic;;
+Current Temperature is;;44;;italic;;nt
+outside;;44;;italic;;nt
+\d+\sdeg;;red;;bold,blink;;nt
+Average distance is \d+ meter peak Distance \d+ meter;;yellow;;italic,blink
+Any.+to me;;blue;;italic,strikethrough
+poor boy;;198;;bold;;nt
+
